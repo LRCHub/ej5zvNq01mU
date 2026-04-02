@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "青いの。",
+  "base_artist": "go!go!vanillas",
+  "createdAt": "2026-04-02T23:46:57.432654Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青いの。",
+      "artist": "go!go!vanillas",
+      "has_synced": false,
+      "path": "select/pl_01_青いの。_go!go!vanillas.txt"
+    }
+  ]
+}
